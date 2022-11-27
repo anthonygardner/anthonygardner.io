@@ -1,0 +1,19 @@
+{
+  "name": "acgardner.github.io",
+  "version": "1.0.0",
+  "description": "My Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run build && next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acgardner/acgardner.github.io.git"
+  },
+  "author": "Anthony Gardner <acgardner95@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acgardner/acgardner.github.io/issues"
+  },
+  "homepage": "https://github.com/acgardner/acgardner.github.io#home"
+}
