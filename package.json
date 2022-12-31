@@ -2,18 +2,18 @@
   "name": "anthonygardner.io",
   "version": "1.0.0",
   "description": "My Personal Website",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "build": "npm run build && next export"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/acgardner/anthonygardner.io.git"
+    "url": "git+https://github.com/anthonygardner/anthonygardner.io.git"
   },
   "author": "Anthony Gardner <acgardner95@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/acgardner/anthonygardner.io/issues"
+    "url": "https://github.com/anthonygardner/anthonygardner.io/issues"
   },
-  "homepage": "https://github.com/acgardner/anthonygardner.io#index"
+  "homepage": "https://github.com/anthonygardner/anthonygardner.io#index"
 }
